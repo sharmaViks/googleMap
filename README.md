@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-use npm install to install the packages and dependencies.
-use your own Google MAP API Key and put it in .env file. Refer .env-example
+**use npm install to install the packages and dependencies.\
+**use your own Google MAP API Key and put it in .env file. Refer .env-example
 ## Available Scripts
 
 In the project directory, you can run:
